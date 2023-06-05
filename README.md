@@ -34,11 +34,11 @@
 
 The tutoring activities are scheduled on Monday and/or Wednesday at 2:00pm based on students need and tutor availability.
 
-- The main course `Web Programming, Design & Usability` is held by professor [Federico Fausto Santoro]("https://web.dmi.unict.it/corsi/l-31/docenti/fedyfausto");
-- The tutoring activities are held by the masters student [Alessio Tudisco]("https://github.com/LightDestory/");
+- The main course `Web Programming, Design & Usability` is held by professor <a href="https://web.dmi.unict.it/corsi/l-31/docenti/fedyfausto">Federico Fausto Santoro</a>;
+- The tutoring activities are held by the masters student <a href="https://github.com/LightDestory/">Alessio Tudisco</a>;
 
 
-You can try all the provided materials [here]("https://LightDestory.github.io/WebProg2023_CourseTutoring").
+You can try all the provided materials <a href="https://LightDestory.github.io/WebProg2023_CourseTutoring">here</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
