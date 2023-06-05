@@ -5,133 +5,44 @@
 
 <div align="center">
 
-  <a href="https://github.com/LightDestory/RepositoryTemplate">
-    <img src="https://raw.githubusercontent.com/LightDestory/RepositoryTemplate/master/.github/assets/images/presentation_image.png" alt="Preview" width="90%">
+  <a href="https://github.com/LightDestory/WebProg2023_CourseTutoring">
+    <img src="https://raw.githubusercontent.com/LightDestory/WebProg2023_CourseTutoring/master/.github/assets/images/presentation_image.png" alt="Preview" width="90%">
   </a>
 
-  <h2 align="center">PROJECT_NAME</h2>
+  <h2 align="center">Web Programming 2023 Course Tutoring</h2>
   
   <p align="center">
-      PROJECT_SHORT_DESCRIPTION
+      Repository containing all materials used for tutoring the WebProg 2023 course.
   </p>
   
   <br />
   <br />
 
-  <!-- MultiLang Selector - DELETE ME IF NOT NEEDED -->
-
-  <section>
-    This README is available in the following languages:
-    <br />
-    <a href="README.md">English</a>
-    ·
-    Italian
-    <br />
-    <br />
-  </section>
-
-</div>
-
-<!-- ToC -->
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#book-about-the-project">📖 About The Project</a>
+      <a href="#question-about">❓ About</a>
     </li>
     <li>
-      <a href="#gear-getting-started">⚙️ Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#notes">Notes</a></li>
-      </ul>
+      <a href="#book-lesson-trace-log">📖 Lesson Trace Log</a>
     </li>
-    <li><a href="#dizzy-contributing">💫 Contributing</a></li>
-    <li><a href="#handshake-support">🤝 Support</a></li>
-    <li><a href="#warning-license">⚠️ License</a></li>
-    <li><a href="#hammer_and_wrench-built-with">🛠️ Built With</a></li>
   </ol>
 </details>
 
-<!-- About Block -->
+## :question: About
 
-## :book: About The Project
+The tutoring activities are scheduled on Monday and/or Wednesday at 2:00pm based on students need and tutor availability.
 
-PROJECT_LONG_DESCRIPTION
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Setup Block -->
-
-## :gear: Getting Started
-
-START_INFO
+- The main course `Web Programming, Design & Usability` is held by professor [Federico Fausto Santoro]("https://web.dmi.unict.it/corsi/l-31/docenti/fedyfausto");
+- The tutoring activities are held by the masters student [Alessio Tudisco]("https://github.com/LightDestory/");
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Prerequisites
+## :book: Lesson Trace Log
 
-PREQ_INFO
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Installation
-
-INSTALL_INFO
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Usage
-
-USAGE_INFO
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Notes
-
-NOTES_INFO
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Contribute Block -->
-
-## :dizzy: Contributing
-
-If you are interested in contributing, please refer to [Contributing Guidelines](.github/CONTRIBUTING.md) for more information and take a look at open issues. Ask any questions you may have and you will be provided guidance on how to get started.
-
-Thank you for considering contributing.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Support Block -->
-
-## :handshake: Support
-
-If you find value in my work, please consider making a donation to help me create, and improve my projects.
-
-Your donation will go a long way in helping me continue to create free software that can benefit people around the world.
-
-<p align="center">
-<a href='https://ko-fi.com/M4M6KC01A' target='_blank'><img src='https://raw.githubusercontent.com/LightDestory/RepositoryTemplate/master/.github/assets/images/support.png' alt='Buy Me a Hot Chocolate at ko-fi.com' width="45%" /></a>
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- License Block -->
-
-## :warning: License
-
-The content of this repository is distributed under the GNU GPL-3.0 License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Built With Block -->
-
-## :hammer_and_wrench: Built With
-
-- [Capybara](https://it.wikipedia.org/wiki/Hydrochoerus_hydrochaeris)
+| Lesson                                                                       | Date | Summary                       |
+| ---------------------------------------------------------------------------- | ---- | --------------------------------- |
+| [Lesson 1](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n1) | 5/6/2023 | Terminal homework           |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,0 +1,106 @@
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-image: url("../assets/wallpaper.png");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+#spawner{
+    margin: 40px 0;
+}
+#spawner button{
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border: 2px solid plum;
+    color: lime;
+    background-color: purple;
+    border-radius: 25px;
+}
+
+.terminal_window {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 1px 1px 15px black;
+}
+.title_bar {
+    height: 30px;
+    background-color: darkslategrey;
+}
+.title_bar:hover {
+    cursor: move;
+}
+
+.buttons {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.buttons span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 4px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: yellowgreen;
+}
+
+.buttons .terminal_close_btn {
+    background-color: darkred;
+}
+
+.buttons .terminal_close_btn:hover {
+    background-color: red;
+}
+
+.buttons span:hover {
+    background-color: yellow;
+}
+
+.content {
+    height: 100%;
+    background-color: purple;
+    padding: 5px 10px;
+}
+
+.history {
+    height: auto;
+    background-color: red;
+}
+
+.hidden {
+    display: none;
+}
+
+.user_prompt, .system_response {
+    color: greenyellow;
+    font-weight: bold;
+}
+
+.user_prompt:focus{
+    outline: none;
+}
+
+.inactive {
+    color: darkgray;
+}
+
+.user_prompt::before{
+    content: "alex@pc$ ";
+    color: cyan;
+}
+
+.system_response::before{
+    content: "system => ";
+    color: yellow;
+}
