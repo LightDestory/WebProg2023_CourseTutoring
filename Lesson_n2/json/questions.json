@@ -1,0 +1,95 @@
+[
+    {
+        "id": "1",
+        "title": "Quale è l'unico elemento inline?",
+        "answers": [
+            {
+                "score": "-10",
+                "text": "div"
+            },
+            {
+                "score": "10",
+                "text": "span"
+            },
+            {
+                "score": "-5",
+                "text": "p"
+            },
+            {
+                "score": "-5",
+                "text": "h1"
+            }
+        ],
+        "correct": "span"
+    },
+    {
+        "id": "2",
+        "title": "Quale è l'unico elemento block?",
+        "answers": [
+            {
+                "score": "-10",
+                "text": "img"
+            },
+            {
+                "score": "-20",
+                "text": "span"
+            },
+            {
+                "score": "10",
+                "text": "form"
+            },
+            {
+                "score": "-5",
+                "text": "label"
+            }
+        ],
+        "correct": "form"
+    },
+    {
+        "id": "3",
+        "title": "Cos'è HTML?",
+        "answers": [
+            {
+                "score": "-10",
+                "text": "Un linguaggio di stile"
+            },
+            {
+                "score": "-99",
+                "text": "Un linguaggio di programmazione"
+            },
+            {
+                "score": "-10",
+                "text": "Um Linguaggio di scripting"
+            },
+            {
+                "score": "10",
+                "text": "Un linguaggio di markup"
+            }
+        ],
+        "correct": "Un linguaggio di markup"
+    },
+    {
+        "id": "4",
+        "title": "Cos'è JavaScript?",
+        "answers": [
+            {
+                "score": "-10",
+                "text": "Un linguaggio di markup"
+            },
+            {
+                "score": "20",
+                "text": "Un linguaggio di programmazione"
+            },
+            {
+                "score": "-10",
+                "text": "Un Linguaggio di creazione e gestione di database"
+            },
+            {
+                "score": "-10",
+                
+                "text": "Un linguaggio di stile"
+            }
+        ],
+        "correct": "Un linguaggio di programmazione"
+    }
+]
