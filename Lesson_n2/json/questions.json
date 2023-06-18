@@ -4,92 +4,107 @@
         "title": "Quale è l'unico elemento inline?",
         "answers": [
             {
+                "id": 1,
                 "score": "-10",
                 "text": "div"
             },
             {
+                "id": 2,
                 "score": "10",
                 "text": "span"
             },
             {
+                "id": 3,
                 "score": "-5",
                 "text": "p"
             },
             {
+                "id": 4,
                 "score": "-5",
                 "text": "h1"
             }
         ],
-        "correct": "span"
+        "correct": 2
     },
     {
         "id": "2",
         "title": "Quale è l'unico elemento block?",
         "answers": [
             {
+                "id": 1,
                 "score": "-10",
                 "text": "img"
             },
             {
+                "id": 2,
                 "score": "-20",
                 "text": "span"
             },
             {
+                "id": 3,
                 "score": "10",
                 "text": "form"
             },
             {
+                "id": 4,
                 "score": "-5",
                 "text": "label"
             }
         ],
-        "correct": "form"
+        "correct": 3
     },
     {
         "id": "3",
         "title": "Cos'è HTML?",
         "answers": [
             {
+                "id": 1,
                 "score": "-10",
                 "text": "Un linguaggio di stile"
             },
             {
+                "id": 2,
                 "score": "-99",
                 "text": "Un linguaggio di programmazione"
             },
             {
+                "id": 3,
                 "score": "-10",
                 "text": "Um Linguaggio di scripting"
             },
             {
+                "id": 4,
                 "score": "10",
                 "text": "Un linguaggio di markup"
             }
         ],
-        "correct": "Un linguaggio di markup"
+        "correct": 4
     },
     {
         "id": "4",
         "title": "Cos'è JavaScript?",
         "answers": [
             {
+                "id": 1,
                 "score": "-10",
                 "text": "Un linguaggio di markup"
             },
             {
+                "id": 2,
                 "score": "20",
                 "text": "Un linguaggio di programmazione"
             },
             {
+                "id": 3,
                 "score": "-10",
                 "text": "Un Linguaggio di creazione e gestione di database"
             },
             {
+                "id": 4,
                 "score": "-10",
-                
                 "text": "Un linguaggio di stile"
             }
         ],
-        "correct": "Un linguaggio di programmazione"
+        "correct": 2
     }
 ]
