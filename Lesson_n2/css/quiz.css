@@ -1,0 +1,75 @@
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    height: 100%;
+    width: 100%;
+    background-color: cornsilk;
+}
+h1 {
+    text-align: center;
+    background-color: bisque;
+    margin:0 0 20px 0;
+    padding: 20px 0;
+    border-radius: 0 0 30px 30px;
+}
+
+label {
+    display: block;
+    cursor: pointer;
+}
+
+.flex-container {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-container > div {
+    margin:0 0 5% 0;
+    background-color: #f1f1f1;
+    width: 45%;
+    padding: 20px;
+    border-radius: 30px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+label:has(input[type="radio"]:checked) {
+    background-color: aquamarine;
+    border-radius: 30px;
+}
+
+#buttons {
+    margin:auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    width: 100%;
+}
+
+#buttons > input {
+    margin: 10px auto;
+    width: 45%;
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    background-color: bisque;
+    cursor: pointer;
+}
+
+#buttons > input:hover {
+    background-color: aquamarine;
+}
+
+
+@media screen and (max-width: 800px) {
+    .flex-container > div {
+        width: 90%;
+    }
+    #buttons > input {
+        width: 90%
+    }
+}
