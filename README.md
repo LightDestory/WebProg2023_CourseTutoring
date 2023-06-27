@@ -47,5 +47,7 @@ You can try all the provided materials <a href="https://LightDestory.github.io/W
 | ---------------------------------------------------------------------------- | ---- | --------------------------------- |
 | [Lesson 1](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n1) | 5/6/2023 | Terminal homework           |
 | [Lesson 2](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n2) | 19/6/2023 | HTTP/HTML/CSS/JS Overview & Quiz exercise           |
+| [Lesson 3](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n3) | 26/6/2023 | FE/BE/NodeJS/Express Overview & Quiz Client-Server exercise           |
+| [Lesson 4](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n4) | 28/6/2023 | WebSockets Overview & Chat CodeReview           |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
