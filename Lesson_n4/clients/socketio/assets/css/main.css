@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#chat_container {
+  display: none;
+}
+
+#chatbox {
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+  overflow: auto;
+}
+
+#messageInput {
+  width: 400px;
+  margin-top: 10px;
+}
