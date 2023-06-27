@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="css/quiz.css">
+</head>
+
+<body>
+    <h1>Quiz</h1>
+    <div id="quiz_loader" class="controls_stacked_container">
+        <p>Secret Key:</p>
+        <input type="text" placeholder="Your secret" id="secret_key">
+        <input type="button" value="Carica Questionario" id="load_questions_btn">
+    </div>
+    <hr
+    <form id="questions_form">
+        <div id="questions_container"> </div>
+        <div id="buttons" class="controls_stacked_container">
+            <input type="submit" />
+            <input type="reset" />
+        </div>
+    </form>
+    <script src="js/quiz.js"></script>
+</body>
+
+</html>
