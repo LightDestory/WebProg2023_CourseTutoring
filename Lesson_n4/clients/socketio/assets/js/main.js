@@ -44,10 +44,11 @@ function connectWebSocket() {
       }
       const message = messageInput.value;
       if (message == "/quit") {
-        // Trigger server's disconnect event
-        socket.emit("disconnect");
         // Trigger client's disconnect event
         socket.disconnect();
+        chatbox.innerHTML = "";
+      messageInput.value = "";
+      document.getElementById("chat_container").style.display = "none";
         return
       }
       console.log("Sending:", message)
