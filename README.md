@@ -49,6 +49,7 @@ You can try all the provided materials <a href="https://LightDestory.github.io/W
 | [Lesson 2](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n2) | 19/06/2023 14:00-16:00 | HTTP/HTML/CSS/JS Overview & Quiz exercise           |
 | [Lesson 3](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n3) | 26/06/2023 14:00-16:00 | FE/BE/NodeJS/Express Overview & Quiz Client-Server exercise           |
 | [Lesson 4](https://github.com/LightDestory/WebProg2023_CourseTutoring/tree/master/Lesson_n4) | 28/06/2023 14:00-17:00 | WebSockets Overview & Chat CodeReview           |
-| [Lesson 5](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 03/06/2023 14:00-16:00 | MongoDB / Mongoose / Angular           |
+| [Lesson 5](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 03/07/2023 14:00-16:00 | MongoDB / Mongoose / Angular           |
+| [Lesson 6](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 12/07/2023 14:00-16:00 | No Students attended |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
