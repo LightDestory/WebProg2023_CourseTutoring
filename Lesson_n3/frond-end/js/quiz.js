@@ -49,6 +49,8 @@ async function load_questions() {
     }
     data = JSON.parse(data);
     const questions = document.getElementById('questions_container');
+    questions.innerHTML = "";
+    is_submitted = false;
     data.forEach(element => {
         let question_div = document.createElement('div');
         question_div.id = `question_${element.id}`;
