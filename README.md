@@ -52,5 +52,7 @@ You can try all the provided materials <a href="https://LightDestory.github.io/W
 | [Lesson 5](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 03/07/2023 14:00-16:00 | MongoDB / Mongoose / Angular           |
 | [Lesson 6](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 12/07/2023 14:00-16:00 | No Students attended |
 | [Lesson 7](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 19/07/2023 14:00-17:00 | Lesson 2 to 4 materials |
+| [Lesson 8](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 24/07/2023 14:00-16:00 | WebSockets Overview |
+| [Lesson 9](https://github.com/LightDestory/WebProg2023_CourseTutoring) | 26/07/2023 13:00-15:00 | Test Autovalutativo |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
